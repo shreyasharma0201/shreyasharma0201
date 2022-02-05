@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shreyasharma0201?tab=repositories](https://github.com/shreyasharma0201?tab=repositories)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **data structures and algorithms**
 
 - 📫 How to reach me **shreyashobha0201@gmail.com**
 
