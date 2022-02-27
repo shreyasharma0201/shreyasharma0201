@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasharma0201&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasharma0201" /> </p>
 
-- 🔭 I’m currently working on **Covid Survey App**
+- 🔭 I’m currently working on **E-voting portal using Blockchain**
 
 - 🌱 I’m currently learning **NodeJS, Express and MongoDB.**
 
