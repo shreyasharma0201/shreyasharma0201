@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Sharma</h1>
-<h3 align="center">A competitive programmer and developer.</h3>
+<h3 align="center">A competitive programmer and software developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasharma0201&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasharma0201" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS, Express and MongoDB.**
 
-- 🤝 I’m looking for help with **Covid Survey App**
+- 🤝 I’m looking for help with ****
 
 - 👨‍💻 All of my projects are available at [https://github.com/shreyasharma0201?tab=repositories](https://github.com/shreyasharma0201?tab=repositories)
 
