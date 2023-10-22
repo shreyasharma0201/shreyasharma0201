@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasharma0201&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasharma0201" /> </p>
 
-- 🔭 I’m currently working on **TripM - A Trip Management Website**
+- 🔭 I’m currently working on **Online JOB Portal**.
 
 - 🌱 I’m currently learning **NodeJS, Express and MongoDB.**
 
 - 🤝 I’m looking for help with ****
 
-- 👨‍💻 All of my projects are available at [https://github.com/shreyasharma0201?tab=repositories](https://github.com/shreyasharma0201?tab=repositories)
+- 👨‍💻 All of my projects are available at [Shreya's Repo](https://github.com/shreyasharma0201?tab=repositories)
 
 - 💬 Ask me about **data structures and algorithms**
 
